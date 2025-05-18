@@ -1,4 +1,4 @@
-# Polarity_Puzzel_Elixir
+# Polarity_Puzzle_Elixir
 
 The polarity puzzle requires you to place domino shaped bar magnets on a board in such a way that certain row and column constraints are satisfied. This is best demonstrated with a visual example. The empty board is shown on the left, and the solved board is on the right:
 
